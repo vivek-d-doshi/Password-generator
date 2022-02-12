@@ -8,5 +8,15 @@
     ## Second screen <br>
     <img src="Second screen.jpg" alt ="Second screen"> <br>
     ## Final screen <br>
-    <img src="Third screen.jpg" alt ="third screen">
+    <img src="third screen.jpg" alt ="third screen">
 </p>
+
+# Libraries
+'''bash
+#importing libraries
+
+import random as r
+import string 
+import tkinter
+import pyperclip as pc
+'''
