@@ -3,7 +3,10 @@
 
 # Result 
 <p align="center">
+    ## First screen
     <img src="First screen.jpg" alt ="First screen"> 
+    ## Second screen
     <img src="Second screen.jpg" alt ="Second screen">
-    <img src="Third screen.jpg" alt ="Third screen">
+    ## Final screen
+    <img src="Third screen.jpg" alt ="third screen">
 </p>
