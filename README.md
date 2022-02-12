@@ -12,11 +12,11 @@
 </p>
 
 # Libraries
-'''bash
+```bash
 #importing libraries
 
 import random as r
 import string 
 import tkinter
 import pyperclip as pc
-'''
+```
